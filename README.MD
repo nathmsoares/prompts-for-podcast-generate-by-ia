@@ -1,10 +1,3 @@
-<p align="center">
-<img 
-    src="file:///Users/nathamsoares/Documents/Cursos/CAIXA%20-%20IA%20Generativa%20com%20Microsoft%20Copilot/Vida%20sem%20Farelos%20(1).png"
-    width="300"
-/>
-</p>
-
 # Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA.
