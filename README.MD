@@ -25,5 +25,5 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA.
 
 ## Ouça aqui
 
-- [Vida Sem Farelo](https://drive.google.com/file/d/1UbvuxtCf_V6ZFhOoIQELtmMKV4ee9L1u/view?usp=drive_link) 
+[Vida Sem Farelo](https://drive.google.com/file/d/1UbvuxtCf_V6ZFhOoIQELtmMKV4ee9L1u/view?usp=drive_link) 
 
