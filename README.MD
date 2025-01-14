@@ -17,15 +17,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA.
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 👨‍💻 Expert
+## Ouça aqui
 
-    <a 
-        href="https://github.com/nathmsoares">
-        GitHub
-    </a>
-   
-    <a 
-        href="https://www.linkedin.com/in/nathmsoares/">
-        LinkedIn
-    </a>
-    
+- [Vida Sem Farelo](https://chat.openai.com/) 
+
