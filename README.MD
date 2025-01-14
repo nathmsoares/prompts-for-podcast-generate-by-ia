@@ -23,7 +23,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA.
         href="https://github.com/nathmsoares">
         GitHub
     </a>
-    &nbsp;|&nbsp;
+   
     <a 
         href="https://www.linkedin.com/in/nathmsoares/">
         LinkedIn
