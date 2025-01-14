@@ -6,7 +6,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Gemini](https://gemini.google.com/app?hl=pt-BR)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -14,8 +14,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Gemini para gerar a capa
+- Capcut para tratar aúdio e adicionar trilha sonora
 
 ## Ouça aqui
 
