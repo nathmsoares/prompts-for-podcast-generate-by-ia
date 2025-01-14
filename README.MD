@@ -27,4 +27,5 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA.
     <a 
         href="https://www.linkedin.com/in/nathmsoares/">
         LinkedIn
+    </a>
     
